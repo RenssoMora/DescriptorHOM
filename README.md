@@ -3,7 +3,7 @@ HOM is a descriptor based in HOF.
 The main code is in HOMDes.h. You would find an  example in descriptor.cpp.
 Please any suggestions or bugs mail to rensso@dcc.ufmg.br 
 
-If you use in a paper research please cite 
+If you use this code  in a research, please cite 
 
 @inproceedings{SIBGRAPI:2015:Colque,
 title = {Histograms of Optical Flow Orientation and Magnitude to Detect Anomalous Events in Videos},
